@@ -1,0 +1,26 @@
+
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+body, input, textarea, button, select{
+    font-size: 14px;
+    line-height: 1.6;
+    font-family: "Josefin Sans","Helvetica Neue",Arial,sans-serif;
+    color: #000;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+}
+
+header-message{
+    line-height: 20px;
+    margin-bottom: 0;
+}
+
+.info-bar{
+    background-color: #1d1d1d;
+    color: #96d6f3;
+    padding: 5px 0;
+    min-height: 30px;
+}
